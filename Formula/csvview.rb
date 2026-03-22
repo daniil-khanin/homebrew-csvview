@@ -1,10 +1,10 @@
 class Csvview < Formula
   desc "Fast interactive CSV viewer and editor for the terminal"
   homepage "https://github.com/daniil-khanin/csvview"
-  url "https://github.com/daniil-khanin/csvview/archive/refs/tags/v15.tar.gz"
-  sha256 "70c457ff66323e2d2b4609c27c0f3c67d9f40b0464067a20b3eb992386c73034"
+  url "https://github.com/daniil-khanin/csvview/archive/refs/tags/v17.tar.gz"
+  sha256 "36bd51c5ee9b0c6a41a0a99bd2e8323c5ef2c4e91c7b54911aa2aab8effec38a"
   license "MIT"
-  version "15"
+  version "17"
 
   depends_on "ncurses"
 
