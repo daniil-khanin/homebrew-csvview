@@ -2,7 +2,7 @@ class Csvview < Formula
   desc "Fast interactive CSV viewer and editor for the terminal"
   homepage "https://github.com/daniil-khanin/csvview"
   url "https://github.com/daniil-khanin/csvview/archive/refs/tags/v21.tar.gz"
-  sha256 "ee937cad316ca46bc88f89b2979810a70fb56c228adc500c74fca8b50b9799b6"
+  sha256 "c046f6486e879ed07aaca6c272c0747971b44b9f242af7e3ae77eccf5267bda8"
   license "MIT"
   version "21"
 
